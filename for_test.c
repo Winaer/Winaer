@@ -127,7 +127,7 @@ void test6()
         
     }
     
-    printf("the average of these studentes is %d", average);
+    printf("the average of these studentes is %d\n", average);
 
 }
 
