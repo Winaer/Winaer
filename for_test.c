@@ -120,7 +120,7 @@ void test6()
     {
         for ( j = 0; j < 2; j++)
         {
-            printf("please input the grade of student%d coure%d", i+1, j+1);
+            printf("please input the grade of student%d coure%d\n", i+1, j+1);
             scanf("%d", &a[i][j]);
             average += a[i][j] / 8;
         }
